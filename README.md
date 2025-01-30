@@ -1,5 +1,9 @@
 # sorteando-amigos
-<ul>La pagina cuenta con la funcion de randomizar la eleccion de amigos, sorteos</ul>
-<ul>Se pueden añadir tantos amigos como quieras<ul/>
-<ul>Tenes acceso a la lista ACTUAl siempre que desees</ul>
-<ul>Se pueden  reiniciar el sorteo cuantas veces quieran</ul>
+<div>
+    <ul>
+        <li>La página cuenta con la función de randomizar la elección de amigos y sorteos.</li>
+        <li>Se pueden añadir tantos amigos como quieras.</li>
+        <li>Tenés acceso a la lista actual siempre que desees.</li>
+        <li>Se puede reiniciar el sorteo cuantas veces quieras.</li>
+    </ul>
+</div>
